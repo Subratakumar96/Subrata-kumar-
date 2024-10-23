@@ -1,4 +1,4 @@
-# Hi, I'm [Subrata Kumar Dhar] 👋
+# Hi, I'm Subrata Kumar Dhar 👋
 
 I'm an **Automation Engineer** passionate about robotics, industrial automation, and software development. With experience in **ABB Six-axis Robots**, **Siemens PLCs**, and programming in **C/C++**, I love creating innovative solutions to automate complex tasks. Below is a glimpse of what I do.
 
